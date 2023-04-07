@@ -1,0 +1,3 @@
+﻿  Tasc2.cpp
+C:\Users\хХх\Desktop\GrandMA\Tasc2\Tasc2\Tasc2.cpp(35,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Tasc2.vcxproj -> C:\Users\хХх\Desktop\GrandMA\Tasc2\Debug\Tasc2.exe
